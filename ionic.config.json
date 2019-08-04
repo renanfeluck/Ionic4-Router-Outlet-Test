@@ -1,0 +1,7 @@
+{
+  "name": "router-outlet-test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
